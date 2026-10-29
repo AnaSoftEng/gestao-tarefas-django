@@ -1,0 +1,2 @@
+# Versão usada e verificada no material didático.
+Django==5.2.18
